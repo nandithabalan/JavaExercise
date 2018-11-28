@@ -61,6 +61,7 @@ class Player {
                     } else {
                         direction = "NW";
                     }
+                    verticalDiff ++;
                 }
                 
             }
